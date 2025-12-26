@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Peterskaronis
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning Ruby on Rails.
-- 💞️ I’m looking to collaborate on Cybersecurity training content.
-- 📫 You can message me ---> peter.skaronis@techimpossible.com
+# Peter Skaronis
 
-<!---
-Peterskaronis/Peterskaronis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founder & CEO at [Techimpossible Security Inc.](https://github.com/techimpossible) — helping SMEs achieve SOC 2 and ISO 27001 compliance without the enterprise overhead.
+
+Based in Vancouver, BC. Polymath.
+
+- https://skaronis.com
+- https://linkedin.com/in/peterskaronis
+- [@Peter_Skaronis](https://twitter.com/Peter_Skaronis)
